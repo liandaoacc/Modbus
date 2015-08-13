@@ -1,0 +1,56 @@
+<NotepadPlus>
+    <Project name="ModbusSlave">
+        <Folder name="Debug">
+            <File name="Debug\led.obj" />
+            <File name="Debug\main.obj" />
+            <File name="Debug\mbascii.obj" />
+            <File name="Debug\mbcheck.obj" />
+            <File name="Debug\mbfunction.obj" />
+            <File name="Debug\mbrtu.obj" />
+            <File name="Debug\modbus.obj" />
+            <File name="Debug\ModbusSlave.out" />
+            <File name="Debug\portevent.obj" />
+            <File name="Debug\portserial.obj" />
+            <File name="Debug\portservertimer.obj" />
+            <File name="Debug\porttimer.obj" />
+            <File name="Debug\vector.obj" />
+        </Folder>
+        <Folder name="ModbusSlave.CS_">
+            <File name="ModbusSlave.CS_\FILE.CDX" />
+            <File name="ModbusSlave.CS_\FILE.DBF" />
+            <File name="ModbusSlave.CS_\FILE.FPT" />
+            <File name="ModbusSlave.CS_\SYMBOL.CDX" />
+            <File name="ModbusSlave.CS_\SYMBOL.DBF" />
+            <File name="ModbusSlave.CS_\SYMBOL.FPT" />
+        </Folder>
+        <File name="cc_build_Debug.log" />
+        <File name="Debug.lkf" />
+        <File name="led.c" />
+        <File name="led.h" />
+        <File name="lf2407.h" />
+        <File name="lf2407regs.h" />
+        <File name="main.c" />
+        <File name="main.cmd" />
+        <File name="main.map" />
+        <File name="mbascii.c" />
+        <File name="mbascii.h" />
+        <File name="mbcheck.c" />
+        <File name="mbcheck.h" />
+        <File name="mbfunction.c" />
+        <File name="mbfunction.h" />
+        <File name="mbrtu.c" />
+        <File name="mbrtu.h" />
+        <File name="modbus.c" />
+        <File name="modbus.h" />
+        <File name="ModbusSlave.paf2" />
+        <File name="ModbusSlave.pjt" />
+        <File name="ModbusSlave.sbl" />
+        <File name="port.h" />
+        <File name="portevent.c" />
+        <File name="portserial.c" />
+        <File name="portservertimer.c" />
+        <File name="porttimer.c" />
+        <File name="rts2xx.lib" />
+        <File name="vector.asm" />
+    </Project>
+</NotepadPlus>
